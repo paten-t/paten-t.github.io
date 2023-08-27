@@ -1,5 +1,5 @@
 # Paten't
-Patents have some problems. This account hosts [paten-t.github.io](paten-t.github.io), a site that proposes an alternative method of managing our inventions!
+Patents have some problems. This account hosts [paten-t.github.io](https://paten-t.github.io), a site that proposes an alternative method of managing our inventions!
 
 This project was made as a part of the [Non-Trivial Fellowship](https://www.non-trivial.org/).
 
